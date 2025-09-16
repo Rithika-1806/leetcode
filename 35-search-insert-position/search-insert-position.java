@@ -6,21 +6,20 @@ class Solution {
 	            System.out.print(i);
 	        }
 	    }
-	    boolean visited = false;
+	    for(int i=0;i<n;i++){
+	        if(arr[i]==target){
+	            System.out.print(i);
+	        }
+	    }
 	    List<Integer> list = new ArrayList<>();
 	    for(int i=0;i<n;i++){
-	        if(!visited && target<arr[i]){
-	            list.add(target);
-	            visited=true;
-	        }
 	        list.add(arr[i]);
 	    }
-	    if(!visited){
-	        list.add(target);
-	    }
+	    list.add(target);
+	    Collections.sort(list);
 	    for(int i=0;i<list.size();i++){
 	        if(list.get(i)==target){
-	            return i;
+                return i;
 	        }
 	    }
         return -1;
