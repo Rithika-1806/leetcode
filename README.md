@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Rithika-1806/leetcode/tree/master/0064-minimum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Rithika-1806/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0496-next-greater-element-i](https://github.com/Rithika-1806/leetcode/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -24,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Rithika-1806/leetcode/tree/master/0064-minimum-path-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Rithika-1806/leetcode/tree/master/0496-next-greater-element-i) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Rithika-1806/leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Rithika-1806/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
