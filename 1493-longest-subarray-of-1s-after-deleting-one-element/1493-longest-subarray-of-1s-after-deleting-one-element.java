@@ -13,8 +13,8 @@ class Solution {
                 }
                 start++;
             }
-            max=Math.max(max,end-start+1);
+            max=Math.max(max,end-start);
         }
-        return max-1;
+        return max;
     }
 }
