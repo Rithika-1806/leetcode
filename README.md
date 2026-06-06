@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Rithika-1806/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Rithika-1806/leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2485-find-the-pivot-integer](https://github.com/Rithika-1806/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Rithika-1806/leetcode/tree/master/0048-rotate-image) |
 | [0319-bulb-switcher](https://github.com/Rithika-1806/leetcode/tree/master/0319-bulb-switcher) |
+| [2485-find-the-pivot-integer](https://github.com/Rithika-1806/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Brainteaser
 |  |
 | ------- |
