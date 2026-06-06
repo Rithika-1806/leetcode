@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Rithika-1806/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Rithika-1806/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rithika-1806/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Rithika-1806/leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Rithika-1806/leetcode/tree/master/0064-minimum-path-sum) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Rithika-1806/leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Rithika-1806/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Rithika-1806/leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Linked List
 |  |
 | ------- |
