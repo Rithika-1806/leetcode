@@ -91,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rithika-1806/leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Rithika-1806/leetcode/tree/master/0143-reorder-list) |
+## Math
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Rithika-1806/leetcode/tree/master/0319-bulb-switcher) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Rithika-1806/leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
