@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rithika-1806/leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Rithika-1806/leetcode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Rithika-1806/leetcode/tree/master/0064-minimum-path-sum) |
 | [0239-sliding-window-maximum](https://github.com/Rithika-1806/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Rithika-1806/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rithika-1806/leetcode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Rithika-1806/leetcode/tree/master/0064-minimum-path-sum) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Rithika-1806/leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Hash Table
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rithika-1806/leetcode/tree/master/0048-rotate-image) |
 | [0319-bulb-switcher](https://github.com/Rithika-1806/leetcode/tree/master/0319-bulb-switcher) |
 ## Brainteaser
 |  |
