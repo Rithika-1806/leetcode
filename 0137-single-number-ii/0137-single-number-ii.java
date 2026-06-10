@@ -7,8 +7,7 @@ class Solution {
         int ans=0;
         for(int key:map.keySet()){
             if(map.get(key)==1){
-                ans=key;
-                break;
+                return key;
             }
         }
         return ans;
