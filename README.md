@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Rithika-1806/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rithika-1806/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Rithika-1806/leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Rithika-1806/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rithika-1806/leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Rithika-1806/leetcode/tree/master/0143-reorder-list) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Rithika-1806/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Math
 |  |
 | ------- |
