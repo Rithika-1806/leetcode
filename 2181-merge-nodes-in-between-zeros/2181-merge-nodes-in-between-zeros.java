@@ -24,15 +24,16 @@ class Solution {
             while(!st.isEmpty()){
                 sum+=st.pop();
             }
-            list.add(sum);
+            temp1.next=new ListNode(sum);
+            temp1=temp1.next;
             temp=temp.next;
         }
 
-        for(int i=0;i<list.size();i++){
-            temp1.next=new ListNode(list.get(i));
-            temp1=temp1.next;
+        // for(int i=0;i<list.size();i++){
+        //     temp1.next=new ListNode(list.get(i));
+        //     temp1=temp1.next;
             
-        }
+        // }
         return dummy.next;
     }
 }
