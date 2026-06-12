@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Rithika-1806/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0626-exchange-seats](https://github.com/Rithika-1806/leetcode/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/Rithika-1806/leetcode/tree/master/0627-swap-sex-of-employees) |
+| [1148-article-views-i](https://github.com/Rithika-1806/leetcode/tree/master/1148-article-views-i) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Rithika-1806/leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Sorting
 |  |
