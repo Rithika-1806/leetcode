@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Rithika-1806/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rithika-1806/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Rithika-1806/leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2432-the-employee-that-worked-on-the-longest-task](https://github.com/Rithika-1806/leetcode/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rithika-1806/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Rithika-1806/leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Rithika-1806/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
