@@ -126,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Rithika-1806/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rithika-1806/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Rithika-1806/leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
