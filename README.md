@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/Rithika-1806/leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Rithika-1806/leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/Rithika-1806/leetcode/tree/master/1148-article-views-i) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Rithika-1806/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Rithika-1806/leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Sorting
 |  |
