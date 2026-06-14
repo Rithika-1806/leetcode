@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/Rithika-1806/leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Rithika-1806/leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/Rithika-1806/leetcode/tree/master/1148-article-views-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Rithika-1806/leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Rithika-1806/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Rithika-1806/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Rithika-1806/leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
