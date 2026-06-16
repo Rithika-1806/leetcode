@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Rithika-1806/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Rithika-1806/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rithika-1806/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rithika-1806/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Rithika-1806/leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/Rithika-1806/leetcode/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2465-number-of-distinct-averages](https://github.com/Rithika-1806/leetcode/tree/master/2465-number-of-distinct-averages) |
