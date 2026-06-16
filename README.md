@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Rithika-1806/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Rithika-1806/leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Rithika-1806/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Rithika-1806/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Rithika-1806/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
 |  |
@@ -129,11 +130,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Rithika-1806/leetcode/tree/master/0319-bulb-switcher) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Rithika-1806/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Rithika-1806/leetcode/tree/master/0137-single-number-ii) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Rithika-1806/leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Rithika-1806/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Simulation
 |  |
 | ------- |
