@@ -126,11 +126,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Rithika-1806/leetcode/tree/master/0048-rotate-image) |
+| [0292-nim-game](https://github.com/Rithika-1806/leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Rithika-1806/leetcode/tree/master/0319-bulb-switcher) |
 | [2485-find-the-pivot-integer](https://github.com/Rithika-1806/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Rithika-1806/leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Rithika-1806/leetcode/tree/master/0319-bulb-switcher) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Rithika-1806/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Bit Manipulation
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rithika-1806/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/Rithika-1806/leetcode/tree/master/0905-sort-array-by-parity) |
 | [2465-number-of-distinct-averages](https://github.com/Rithika-1806/leetcode/tree/master/2465-number-of-distinct-averages) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rithika-1806/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
