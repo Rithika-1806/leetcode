@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Rithika-1806/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rithika-1806/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3110-score-of-a-string](https://github.com/Rithika-1806/leetcode/tree/master/3110-score-of-a-string) |
+| [3798-largest-even-number](https://github.com/Rithika-1806/leetcode/tree/master/3798-largest-even-number) |
 ## Matrix
 |  |
 | ------- |
