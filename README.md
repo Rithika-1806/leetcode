@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Rithika-1806/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rithika-1806/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3110-score-of-a-string](https://github.com/Rithika-1806/leetcode/tree/master/3110-score-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/Rithika-1806/leetcode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/Rithika-1806/leetcode/tree/master/3798-largest-even-number) |
 ## Matrix
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rithika-1806/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/Rithika-1806/leetcode/tree/master/0905-sort-array-by-parity) |
 | [2465-number-of-distinct-averages](https://github.com/Rithika-1806/leetcode/tree/master/2465-number-of-distinct-averages) |
+| [3794-reverse-string-prefix](https://github.com/Rithika-1806/leetcode/tree/master/3794-reverse-string-prefix) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Rithika-1806/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Math
 |  |
