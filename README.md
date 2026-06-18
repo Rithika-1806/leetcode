@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/Rithika-1806/leetcode/tree/master/3110-score-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Rithika-1806/leetcode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/Rithika-1806/leetcode/tree/master/3798-largest-even-number) |
+| [3813-vowel-consonant-score](https://github.com/Rithika-1806/leetcode/tree/master/3813-vowel-consonant-score) |
 ## Matrix
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Rithika-1806/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rithika-1806/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3813-vowel-consonant-score](https://github.com/Rithika-1806/leetcode/tree/master/3813-vowel-consonant-score) |
 ## Database
 |  |
 | ------- |
