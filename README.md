@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rithika-1806/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Rithika-1806/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Rithika-1806/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Rithika-1806/leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Rithika-1806/leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/Rithika-1806/leetcode/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2465-number-of-distinct-averages](https://github.com/Rithika-1806/leetcode/tree/master/2465-number-of-distinct-averages) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Rithika-1806/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rithika-1806/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rithika-1806/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Rithika-1806/leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
