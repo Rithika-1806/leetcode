@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Rithika-1806/leetcode/tree/master/0048-rotate-image) |
 | [0292-nim-game](https://github.com/Rithika-1806/leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Rithika-1806/leetcode/tree/master/0319-bulb-switcher) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Rithika-1806/leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2485-find-the-pivot-integer](https://github.com/Rithika-1806/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rithika-1806/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rithika-1806/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -207,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Rithika-1806/leetcode/tree/master/0292-nim-game) |
+## Greedy
+|  |
+| ------- |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Rithika-1806/leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 <!---LeetCode Topics End-->
