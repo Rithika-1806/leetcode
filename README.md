@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Rithika-1806/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Rithika-1806/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Rithika-1806/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3921-score-validator](https://github.com/Rithika-1806/leetcode/tree/master/3921-score-validator) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Rithika-1806/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3798-largest-even-number](https://github.com/Rithika-1806/leetcode/tree/master/3798-largest-even-number) |
 | [3813-vowel-consonant-score](https://github.com/Rithika-1806/leetcode/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Rithika-1806/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3921-score-validator](https://github.com/Rithika-1806/leetcode/tree/master/3921-score-validator) |
 ## Matrix
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Rithika-1806/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3813-vowel-consonant-score](https://github.com/Rithika-1806/leetcode/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Rithika-1806/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3921-score-validator](https://github.com/Rithika-1806/leetcode/tree/master/3921-score-validator) |
 ## Database
 |  |
 | ------- |
