@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3674-minimum-operations-to-equalize-array](https://github.com/Rithika-1806/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3921-score-validator](https://github.com/Rithika-1806/leetcode/tree/master/3921-score-validator) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Rithika-1806/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Rithika-1806/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/Rithika-1806/leetcode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Rithika-1806/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Rithika-1806/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Rithika-1806/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Math
 |  |
 | ------- |
