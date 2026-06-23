@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Rithika-1806/leetcode/tree/master/0137-single-number-ii) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Rithika-1806/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Rithika-1806/leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Rithika-1806/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Simulation
