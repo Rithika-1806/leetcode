@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Rithika-1806/leetcode/tree/master/0771-jewels-and-stones) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Rithika-1806/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1108-defanging-an-ip-address](https://github.com/Rithika-1806/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/Rithika-1806/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rithika-1806/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Rithika-1806/leetcode/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rithika-1806/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Rithika-1806/leetcode/tree/master/0771-jewels-and-stones) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Rithika-1806/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Rithika-1806/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Rithika-1806/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2465-number-of-distinct-averages](https://github.com/Rithika-1806/leetcode/tree/master/2465-number-of-distinct-averages) |
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Rithika-1806/leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
+## Counting
+|  |
+| ------- |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Rithika-1806/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->
