@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Rithika-1806/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/Rithika-1806/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rithika-1806/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Rithika-1806/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Rithika-1806/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3110-score-of-a-string](https://github.com/Rithika-1806/leetcode/tree/master/3110-score-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Rithika-1806/leetcode/tree/master/3794-reverse-string-prefix) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rithika-1806/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Rithika-1806/leetcode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Rithika-1806/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Rithika-1806/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Rithika-1806/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Rithika-1806/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2465-number-of-distinct-averages](https://github.com/Rithika-1806/leetcode/tree/master/2465-number-of-distinct-averages) |
