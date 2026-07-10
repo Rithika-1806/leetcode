@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Rithika-1806/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Rithika-1806/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rithika-1806/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1664-ways-to-make-a-fair-array](https://github.com/Rithika-1806/leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rithika-1806/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Rithika-1806/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Rithika-1806/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Rithika-1806/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1664-ways-to-make-a-fair-array](https://github.com/Rithika-1806/leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Rithika-1806/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Rithika-1806/leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2485-find-the-pivot-integer](https://github.com/Rithika-1806/leetcode/tree/master/2485-find-the-pivot-integer) |
