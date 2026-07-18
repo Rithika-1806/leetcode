@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-ways-to-make-a-fair-array](https://github.com/Rithika-1806/leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rithika-1806/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Rithika-1806/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2057-smallest-index-with-equal-value](https://github.com/Rithika-1806/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Rithika-1806/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Rithika-1806/leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Rithika-1806/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
